@@ -2,7 +2,7 @@
   "name": "prospectwarm",
   "private": true,
   "version": "0.1.0",
-  "packageManager": "pnpm@10.0.0",
+  "packageManager": "pnpm@10.23.0",
   "scripts": {
     "dev": "echo \"TODO: wire dev commands for app packages\"",
     "typecheck": "pnpm -r run typecheck",
