@@ -1,0 +1,11 @@
+{
+  "name": "@prospectwarm/extension",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test:unit": "echo \"No extension unit tests yet\"",
+    "build": "tsc -p tsconfig.json"
+  }
+}
