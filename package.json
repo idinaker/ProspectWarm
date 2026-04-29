@@ -1,0 +1,16 @@
+{
+  "name": "prospectwarm",
+  "private": true,
+  "version": "0.1.0",
+  "packageManager": "pnpm@10.23.0",
+  "scripts": {
+    "dev": "echo \"TODO: wire dev commands for app packages\"",
+    "typecheck": "pnpm -r run typecheck",
+    "lint": "echo \"TODO: add lint config\"",
+    "test": "pnpm test:unit",
+    "test:unit": "pnpm -r run test:unit",
+    "test:integration": "echo \"TODO: add integration tests\"",
+    "test:e2e": "echo \"TODO: add e2e tests\"",
+    "build": "pnpm -r run build"
+  }
+}
