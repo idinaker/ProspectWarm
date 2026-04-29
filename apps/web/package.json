@@ -6,6 +6,7 @@
   "scripts": {
     "typecheck": "tsc -p tsconfig.json --noEmit",
     "test:unit": "echo \"No web unit tests yet\"",
+    "test:integration": "pnpm run build && node --test tests/integration/*.test.mjs",
     "build": "tsc -p tsconfig.json"
   }
 }

@@ -12,9 +12,5 @@
     "test:integration": "echo \"TODO: add integration tests\"",
     "test:e2e": "echo \"TODO: add e2e tests\"",
     "build": "pnpm -r run build"
-  },
-  "devDependencies": {
-    "typescript": "^5.8.3",
-    "vitest": "^3.2.4"
   }
 }
